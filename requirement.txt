@@ -1,0 +1,7 @@
+azure-ai-projects
+azure-identity
+openai
+azure-ai-inference
+python-dotenv
+faiss-cpu
+numpy
