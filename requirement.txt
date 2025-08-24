@@ -6,4 +6,7 @@ python-dotenv
 faiss-cpu
 numpy
 azure-ai-contentsafety
-opencensus-ext-azure
+azure-ai-vision-imageanalysis
+azure-cognitiveservices-vision-computervision
+azure-ai-vision-face
+azure-cognitiveservices-vision-customvision
