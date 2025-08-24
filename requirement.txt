@@ -5,3 +5,5 @@ azure-ai-inference
 python-dotenv
 faiss-cpu
 numpy
+azure-ai-contentsafety
+opencensus-ext-azure
