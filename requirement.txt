@@ -7,6 +7,11 @@ faiss-cpu
 numpy
 azure-ai-contentsafety
 azure-ai-vision-imageanalysis
-azure-cognitiveservices-vision-computervision
 azure-ai-vision-face
+azure-cognitiveservices-vision-computervision
 azure-cognitiveservices-vision-customvision
+pillow
+matplotlib
+azure-ai-textanalytics
+azure-ai-translation-text
+azure-cognitiveservices-speech
